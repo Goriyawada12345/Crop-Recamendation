@@ -1,0 +1,8 @@
+AgriMind/
+ ├── images/
+ │   ├── dashboard.png
+ │   ├── crop_recommendation.png
+ │   ├── fertilizer.png
+ │   ├── yield.png
+ │   ├── history.png
+ ├── README.md
