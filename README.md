@@ -131,6 +131,22 @@ All models use Scikit-learn and can be easily swapped with more advanced models 
 - **Yield Prediction:** Historical yield data with state/district/season information
 
 ## 🛠️ Development
+## 📊 Smart Agriculture Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## 🌱 Crop Recommendation
+
+![Crop Recommendation](images/crop_recommendation.png)
+
+## 🧪 Fertilizer Advisor
+![Fertilizer Advisor](images/fertilizer.png)
+
+## 🌾 Yield Estimation
+![Yield Estimation](images/yield.png)
+
+## 🕒 Prediction History
+![Prediction History](images/history.png)
 
 ### Training Models
 
