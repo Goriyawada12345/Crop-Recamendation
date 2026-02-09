@@ -134,6 +134,7 @@ All models use Scikit-learn and can be easily swapped with more advanced models 
 ## 📊 Smart Agriculture Dashboard
 The dashboard is the central hub of the AgriMind system. It provides quick access to all major features such as crop recommendation, fertilizer advisory, yield estimation, and prediction history, enabling farmers to make data-driven decisions from a single interface.
 ![Dashboard]
+
 (<img width="1916" height="926" alt="dashboard png" src="https://github.com/user-attachments/assets/9efa4757-7c60-411e-af0d-fdd7fa55abe8" />
 )
 
@@ -141,6 +142,7 @@ The dashboard is the central hub of the AgriMind system. It provides quick acces
 This module recommends the most suitable crop based on soil nutrients (NPK), pH value, temperature, humidity, and rainfall. It uses machine learning models to analyze environmental conditions and suggest the optimal crop for maximum productivity.
 After submitting soil and environmental inputs, the system displays the recommended crop instantly. This helps farmers choose crops that are best suited to their land conditions, reducing risk and improving yield potential
 ![Crop Recommendation]
+
 (<img width="1920" height="1020" alt="crop_recommendation png" src="https://github.com/user-attachments/assets/cc48d5e8-c713-4514-8c40-be396a6fef71" />
 )
 
@@ -148,6 +150,7 @@ After submitting soil and environmental inputs, the system displays the recommen
 The fertilizer advisor suggests the most appropriate fertilizer based on soil type, crop type, and nutrient deficiencies. It ensures balanced nutrient management and helps maintain soil health.
 The system displays the recommended fertilizer along with the reason (e.g., nitrogen deficiency). This supports precise fertilizer usage and avoids overuse, reducing cost and environmental impact.
 ![Fertilizer Advisor]
+
 (<img width="1909" height="922" alt="fertilizer png" src="https://github.com/user-attachments/assets/158ff85d-85e9-4371-8328-62fd6642da34" />
 )
 
@@ -155,6 +158,7 @@ The system displays the recommended fertilizer along with the reason (e.g., nitr
 This module predicts expected crop yield using historical agricultural data, rainfall, season, cultivation area, and crop type. It helps farmers plan resources and estimate production in advance.
 The estimated yield is shown in kilograms, providing farmers with a clear understanding of expected output. This supports better financial and logistical planning.
 ![Yield Estimation]
+
 (<img width="1912" height="920" alt="yield png" src="https://github.com/user-attachments/assets/0b5dda5a-2604-41e7-b34f-f9fe960e9caa" />
 )
 
@@ -162,6 +166,7 @@ The estimated yield is shown in kilograms, providing farmers with a clear unders
 The history page stores previous crop, fertilizer, and yield predictions. It allows users to track past analyses, compare results, and identify trends over time.
 
 ![Prediction History]
+
 (<img width="1913" height="926" alt="history png" src="https://github.com/user-attachments/assets/5f37621e-bd34-42d1-96aa-ca2156baa0dd" />
 )
 
